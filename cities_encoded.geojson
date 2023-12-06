@@ -1,0 +1,1256 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-12-06T07:01:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74099711",
+        "name": "Ch\u00e2u \u0110\u1ed1c",
+        "name:en": "Ch\u00e2u \u0110\u1ed1c",
+        "name:ja": "\u30c1\u30e3\u30a6\u30c9\u30c3\u30af",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1798\u17b6\u178f\u17cb\u1787\u17d2\u179a\u17bc\u1780",
+        "name:ko": "\uca4c\uc6b0\ub3c5",
+        "name:ru": "\u0422\u044f\u0443\u0434\u043e\u043a",
+        "name:vi-Hani": "\u6731\u7be4",
+        "name:zh-Hans": "\u6731\u7b03\u5e02",
+        "name:zh-Hant": "\u6731\u7be4\u5e02",
+        "place": "city",
+        "population": "157298",
+        "wikidata": "Q373214",
+        "wikipedia": "vi:Ch\u00e2u \u0110\u1ed1c (th\u00e0nh ph\u1ed1)",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0923\u093f\u0919\u0935\u0914\u095b\u0902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1188675,
+          10.7101815
+        ]
+      },
+      "id": "node/74099711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256842008",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17d2\u1791\u17b9\u1784\u178f\u17d2\u179a\u17c2\u1784",
+        "name:en": "Stung Treng",
+        "name:fr": "Stoeng Treng",
+        "name:ja": "\u30b9\u30c8\u30a5\u30f3\u30c8\u30ec\u30f3",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17d2\u1791\u17b9\u1784\u178f\u17d2\u179a\u17c2\u1784",
+        "name:ru": "\u0421\u0442\u044b\u043d\u0433\u0442\u0440\u0430\u0435\u043d\u0433",
+        "note": "See more at: https://github.com/gravitystorm/openstreetmap-carto/pull/358",
+        "place": "city",
+        "population": "29665",
+        "wikidata": "Q10859501",
+        "wikipedia": "en:Stung Treng",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u092c\u0956\u095e\u090c\u0921\u0935\u093f\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9686727,
+          13.5271207
+        ]
+      },
+      "id": "node/256842008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256873493",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u200b\u179f\u17c0\u1798\u1794\u17c9\u17b6\u1784",
+        "name:en": "Siem Pang",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17c0\u1798\u1794\u17c9\u17b6\u1784",
+        "name:ru": "\u0421\u0438\u0435\u043c\u043f\u0430\u043d\u0433",
+        "place": "town",
+        "wikidata": "Q4929494",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0943\u092c\u0930\u090d\u091d\u095d\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3868945,
+          14.1163575
+        ]
+      },
+      "id": "node/256873493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256873929",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u179b\u17c6\u1795\u17b6\u178f\u17cb",
+        "name:en": "Lumphat",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u179b\u17c6\u1795\u17b6\u178f\u17cb",
+        "name:ru": "\u041b\u043e\u043c\u043f\u0445\u0430\u0442",
+        "place": "town",
+        "wikidata": "Q2235920",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0953\u0903\u091f\u093f\u0919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9736284,
+          13.4998503
+        ]
+      },
+      "id": "node/256873929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256874025",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u179c\u17be\u1793\u179f\u17c3",
+        "name:en": "Veun Sai",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u179c\u17be\u1793\u179f\u17c3",
+        "name:ru": "\u0412\u044d\u043d\u0441\u0430\u0439",
+        "place": "town",
+        "wikidata": "Q7923859",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0943\u0957\u094b\u091c\u0900\u092c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8137949,
+          13.9720878
+        ]
+      },
+      "id": "node/256874025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256889019",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17d2\u1791\u17b9\u1784\u179f\u17c2\u1793",
+        "name:en": "Stueng Saen",
+        "name:fr": "Stueng Saen",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17d2\u1791\u17b9\u1784\u179f\u17c2\u1793",
+        "name:ko": "\uc2a4\ud145\uc0c1",
+        "name:ru": "\u0421\u0442\u044b\u043d\u0433\u0441\u0430\u0435\u043d",
+        "name:vi": "Stueng Saen",
+        "name:zh": "\u65af\u767b\u68ee",
+        "place": "city",
+        "population": "48000",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u092c\u0956\u095e\u090c\u0921\u092c\u091c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8891082,
+          12.7126242
+        ]
+      },
+      "id": "node/256889019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256990829",
+        "int_name": "Sisophon",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17b7\u179a\u17b8\u179f\u17c4\u1797\u17d0\u178e",
+        "name:en": "Sisophon",
+        "name:et": "Sis\u014fph\u014fn",
+        "name:fr": "Sisophon",
+        "name:ja": "\u30b7\u30bd\u30dd\u30f3",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17b7\u179a\u17b8\u179f\u17c4\u1797\u17d0\u178e",
+        "name:ru": "\u0421\u0438\u0441\u043e\u043f\u0445\u043e\u043d",
+        "place": "city",
+        "population": "132264",
+        "wikidata": "Q855717",
+        "wikipedia": "km:\u1780\u17d2\u179a\u17bb\u1784\u179f\u17b7\u179a\u17b8\u179f\u17c4\u1797\u17d0\u178e",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u092c\u090b\u0908\u0932\u0943\u090e\u0946\u0950\u092e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9700274,
+          13.5884004
+        ]
+      },
+      "id": "node/256990829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256991275",
+        "alt_name:vi": "B\u00e1t-\u0111om-boong",
+        "int_name": "Battambang",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784",
+        "name:bg": "\u0411\u0430\u0442\u0430\u043c\u0431\u0430\u043d\u0433",
+        "name:bn": "\u09ac\u09cd\u09af\u09be\u099f\u09be\u09ae\u09ac\u0982",
+        "name:el": "\u039c\u03c0\u03b1\u03c4\u03c4\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba",
+        "name:en": "Battambang",
+        "name:es": "Ciudad de Battambang",
+        "name:et": "B\u0103td\u00e2mb\u00e2ng",
+        "name:fi": "B\u0103t D\u00e2mb\u00e2ng",
+        "name:fr": "Battambang",
+        "name:ja": "\u30d0\u30bf\u30f3\u30d0\u30f3",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784",
+        "name:ko": "\ubc14\ud0d0\ubc29",
+        "name:lt": "Batambangas",
+        "name:ru": "\u0411\u0430\u0442\u0442\u0430\u043c\u0431\u0430\u043d\u0433",
+        "name:sr": "\u0411\u0430\u0442\u0430\u043c\u0431\u0430\u043d\u0433",
+        "name:vi": "B\u00e1t-tam-bang",
+        "name:zh": "\u99ac\u5fb7\u671b",
+        "place": "city",
+        "population": "180318",
+        "wikidata": "Q748336",
+        "wikipedia": "en:Battambang",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u091d\u093f\u0919\u0913\u094e\u0916\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1966659,
+          13.0998526
+        ]
+      },
+      "id": "node/256991275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256991787",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u200b\u1782\u17bc\u179b\u17c2\u1793",
+        "name:en": "Srok Kulaen",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u1782\u17bc\u179b\u17c2\u1793",
+        "name:ru": "\u041a\u0443\u043b\u0435\u043d",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0906\u0939\u0921\u0953\u091c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6996781,
+          13.818762
+        ]
+      },
+      "id": "node/256991787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256992516",
+        "alt_name": "Tbeang Meanchay",
+        "capital": "4",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1796\u17d2\u179a\u17c7\u179c\u17b7\u17a0\u17b6\u179a",
+        "name:en": "Preah Vihear",
+        "name:fr": "Thbeng Meanchey",
+        "name:ja": "\u30d7\u30ec\u30a2\u30f4\u30a3\u30d2\u30a2",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1796\u17d2\u179a\u17c7\u179c\u17b7\u17a0\u17b6\u179a",
+        "name:ru": "\u041f\u0440\u044d\u0430\u0445\u0432\u0438\u0445\u0435\u0430",
+        "name:uk": "\u041f\u0440\u0435\u0430\u0445\u0432\u0456\u0445\u0435\u0430",
+        "place": "city",
+        "wikidata": "Q2428308",
+        "wikipedia": "fr:Tbeng Meancheay",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0935\u095a\u0907\u0957\u0960\u0940\u0908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9742871,
+          13.8012643
+        ]
+      },
+      "id": "node/256992516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256993179",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17c2\u1793\u1798\u1793\u17c4\u179a\u1798\u17d2\u1799",
+        "name:en": "Senmonorom",
+        "name:fr": "Saen Monourom",
+        "name:ja": "\u30bb\u30f3\u30e2\u30ce\u30ed\u30e0",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17c2\u1793\u1798\u1793\u17c4\u179a\u1798\u17d2\u1799",
+        "name:ru": "\u0421\u0435\u043d\u043c\u043e\u043d\u043e\u0440\u043e\u043c",
+        "name:uk": "\u0421\u0435\u043d\u043c\u043e\u043d\u043e\u0440\u043e\u043c",
+        "place": "city",
+        "wikidata": "Q2530693",
+        "wikipedia": "en:Senmonorom",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0921\u092c\u091c\u090d\u0943\u090f\u0908\u090d\u0915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1865184,
+          12.4568561
+        ]
+      },
+      "id": "node/256993179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257735781",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u1793\u17d2\u179b\u1784\u17cb\u179c\u17c2\u1784",
+        "name:en": "Anlong Veng",
+        "name:ja": "\u30a2\u30f3\u30ed\u30f3\u30d9\u30f3",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u1793\u17d2\u179b\u1784\u17cb\u179c\u17c2\u1784",
+        "name:ru": "\u0410\u043d\u043b\u043e\u043d\u0433\u0432\u044d\u043d\u0433",
+        "place": "town",
+        "wikidata": "Q557911",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0942\u091c\u0945\u090c\u0936\u0921\u0957\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0812013,
+          14.2331742
+        ]
+      },
+      "id": "node/257735781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257838557",
+        "int_name": "Siem Reap",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17c0\u1798\u179a\u17b6\u1794",
+        "name:ar": "\u0633\u064a\u0627\u0645 \u0631\u064a\u0628",
+        "name:en": "Siem Reap",
+        "name:es": "Ciudad de Siem Riep",
+        "name:et": "Si\u0115m R\u00e9ab",
+        "name:fa": "\u0633\u06cc\u0647\u200c\u0645 \u0631\u0626\u0627\u067e",
+        "name:fi": "Si\u0115m R\u00e9ab",
+        "name:fr": "Siem Reap",
+        "name:hi": "\u0938\u0940\u092e \u0930\u0940\u092a",
+        "name:ja": "\u30b7\u30a7\u30e0\u30ea\u30a2\u30c3\u30d7",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u179f\u17c0\u1798\u179a\u17b6\u1794",
+        "name:ko": "\uc2dc\uc5e0\ub808\uc544\ud504",
+        "name:lt": "Siemreabas",
+        "name:ml": "\u0d38\u0d3f\u0d2f\u0d02 \u0d31\u0d40\u0d2a\u0d4d",
+        "name:nl": "Siem Reap",
+        "name:ru": "\u0421\u0438\u0435\u043c\u0440\u0435\u0430\u043f",
+        "name:sr": "\u0421\u0438\u0435\u043c \u0420\u0435\u0430\u043f",
+        "name:th": "\u0e40\u0e2a\u0e35\u0e22\u0e21\u0e23\u0e32\u0e10",
+        "name:vi": "Xi\u00eam Ri\u1ec7p",
+        "name:zh": "\u66b9\u7c92\u5e02",
+        "place": "city",
+        "population": "171800",
+        "wikidata": "Q11711",
+        "wikipedia": "en:Siem Reap",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0943\u092c\u0930\u090d\u0958\u0916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8590321,
+          13.3617562
+        ]
+      },
+      "id": "node/257838557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257885052",
+        "ele": "4",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17c2\u1794",
+        "name:en": "Kep",
+        "name:fr": "Kep",
+        "name:ja": "\u30b1\u30c3\u30d7",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17c2\u1794",
+        "name:ko": "\ucf00\ud504",
+        "name:ru": "\u041a\u0430\u0435\u043f",
+        "name:vi": "Kep",
+        "place": "city",
+        "population": "35990",
+        "wikidata": "Q14204826",
+        "wikipedia": "de:Kep (Kambodscha)",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0921\u0902\u0916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3148207,
+          10.4860396
+        ]
+      },
+      "id": "node/257885052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/257885151",
+        "int_name": "Kampot",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17c6\u1796\u178f",
+        "name:en": "Kampot",
+        "name:fr": "Kampot",
+        "name:ja": "\u30ab\u30f3\u30dd\u30c3\u30c8",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17c6\u1796\u178f",
+        "name:ko": "\uce84\ud3ec\ud2b8",
+        "name:ru": "\u041a\u0430\u043c\u043f\u043e\u0442",
+        "name:th": "\u0e01\u0e33\u0e1b\u0e2d\u0e15",
+        "name:uk": "\u041a\u0430\u043c\u043f\u043e\u0442",
+        "name:vi": "Kampot",
+        "place": "city",
+        "population": "39186",
+        "wikidata": "Q876549",
+        "wikimedia_commons": "Category:Kampot",
+        "wikipedia": "en:Kampot (city)",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0902\u095f\u095a\u093f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1797339,
+          10.6183061
+        ]
+      },
+      "id": "node/257885151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369486734",
+        "alt_name": "S\u00e0i G\u00f2n",
+        "alt_name:en": "Saigon",
+        "alt_name:ko": "\uc0ac\uc774\uacf5",
+        "alt_name:zh": "\u897f\u8d21",
+        "capital": "4",
+        "name": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "name:ar": "\u0645\u062f\u064a\u0646\u0629 \u0647\u0648 \u062a\u0634\u064a \u0645\u0646\u0647",
+        "name:cjm-Latn": "Madin H\u1ed3 Ch\u00ed Minh",
+        "name:ckb": "\u0647\u06c6\u0634\u06cc\u200c\u0645\u06cc\u0646",
+        "name:cs": "Ho \u010ci Minovo M\u011bsto",
+        "name:de": "Ho-Chi-Minh-Stadt",
+        "name:el": "\u03a7\u03bf \u03a4\u03c3\u03b9 \u039c\u03b9\u03bd",
+        "name:en": "Ho Chi Minh City",
+        "name:es": "Ciudad Ho Chi Minh",
+        "name:et": "H\u1ed3 Ch\u00ed Minh",
+        "name:eu": "Ho Chi Minh Hiria",
+        "name:fa": "\u0647\u0648\u0634\u06cc\u200c\u0645\u06cc\u0646",
+        "name:fr": "H\u00f4 Chi Minh-Ville",
+        "name:he": "\u05d4\u05d5 \u05e6'\u05d9 \u05de\u05d9\u05df \u05e1\u05d9\u05d8\u05d9",
+        "name:hr": "Grad Ho Chi Minh",
+        "name:id": "Kota Ho Chi Minh",
+        "name:it": "Citt\u00e0 di Ho Chi Minh",
+        "name:ja": "\u30db\u30fc\u30c1\u30df\u30f3\u5e02",
+        "name:km": "\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784\u200b\u17a0\u17bc\u200b\u1787\u17b8\u200b\u1798\u17b7\u1789",
+        "name:ko": "\ud638\ucc0c\ubbfc",
+        "name:lv": "Ho\u010dimina",
+        "name:ml": "\u0d39\u0d4b \u0d1a\u0d3f \u0d2e\u0d3f\u0d7b \u0d28\u0d17\u0d30\u0d02",
+        "name:ms": "Bandaraya Ho Chi Minh",
+        "name:nl": "Ho Chi Minhstad",
+        "name:oc": "H\u00f4 Chi Minh Vila",
+        "name:ru": "\u0425\u043e\u0448\u0438\u043c\u0438\u043d",
+        "name:sk": "Ho\u010diminovo Mesto",
+        "name:vi": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "name:vi-US": "S\u00e0i G\u00f2n",
+        "name:zh": "\u80e1\u5fd7\u660e\u5e02",
+        "note": "\"Th\u00e0nh ph\u1ed1\" or \"City\" is often being added to prevent confusion with the H\u1ed3 Ch\u00ed Minh person itself. Don't remove it",
+        "official_name": "Ho Chi Minh City",
+        "official_name:en": "Ho Chi Minh City",
+        "official_name:vi": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "old_name": "Saigon",
+        "old_name:cjm-Latn": "Baigaor",
+        "old_name:cs": "Saigon",
+        "old_name:de": "Saigon",
+        "old_name:en": "Saigon",
+        "old_name:fr": "Sa\u00efgon",
+        "old_name:hr": "Saigon",
+        "old_name:it": "Saigon",
+        "old_name:ko": "\uc0ac\uc774\uacf5",
+        "old_name:la": "Saigonia",
+        "old_name:lv": "Saigona",
+        "old_name:pronunciation": "\u0282a\u02d0j\u02e8\u02e9\u2423\u0263\u0254\u014b\u02e8\u02e9",
+        "old_name:vi": "S\u00e0i G\u00f2n",
+        "old_name:zh": "\u897f\u8ca2\u5e02",
+        "place": "city",
+        "population": "9166800",
+        "population:date": "2022",
+        "rank": "0",
+        "ref": "TPHCM",
+        "short_name": "Tp. HCM;HCM;SG",
+        "short_name:en": "HCMC;SG",
+        "short_name:vi": "Tp. HCM;HCM;SG",
+        "source:name:oc": "Lo Congr\u00e8s",
+        "source:population": "national survey",
+        "website": "https://www.hochiminhcity.gov.vn/",
+        "wikidata": "Q1854",
+        "wikipedia": "vi:Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "name:km_encoded": "\u095c\u094d\u0935\u0902\u091e\u090c\u200b\u0926\u0920\u200b\u0914\u0928\u200b\u090d\u0955\u091a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7011391,
+          10.7763897
+        ]
+      },
+      "id": "node/369486734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369487028",
+        "capital": "4",
+        "name": "\u0110\u00e0 N\u1eb5ng",
+        "name:en": "\u0110\u00e0 N\u1eb5ng",
+        "name:eo": "Danango",
+        "name:ja": "\u30c0\u30ca\u30f3",
+        "name:km": "\u178a\u17b6\u178e\u17b6\u17c6\u1784",
+        "name:ko": "\ub2e4\ub0ad",
+        "name:pt": "Da Nang",
+        "name:ru": "\u0414\u0430\u043d\u0430\u043d\u0433",
+        "name:zh": "\u5c98\u6e2f\u5e02",
+        "name:zh-Hant": "\u5cf4\u6e2f\u5e02",
+        "name:zh_pinyin": "Xian Gang Shi",
+        "official_name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "official_name:en": "Da Nang City",
+        "official_name:vi": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "old_name:1889-1945": "Tourane",
+        "old_name:en:1889-1945": "Tourane",
+        "old_name:fr:1889-1945": "Tourane",
+        "place": "city",
+        "population": "1007400",
+        "source:population": "DBpedia",
+        "wikidata": "Q25282",
+        "wikipedia": "en:Da Nang",
+        "name:km_encoded": "\u093a\u0959\u0918\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.212,
+          16.068
+        ]
+      },
+      "id": "node/369487028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369487039",
+        "capital": "4",
+        "name": "R\u1ea1ch Gi\u00e1",
+        "name:en": "R\u1ea1ch Gi\u00e1",
+        "name:fa": "\u0631\u0627\u0686\u0627 \u06af\u06cc\u0627",
+        "name:fr": "Rach Gia",
+        "name:he": "\u05e8\u05d0\u05e5' \u05d2\u05d9\u05d4",
+        "name:ja": "\u30e9\u30c3\u30af\u30b6\u30fc",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u179a\u17b6\u1787\u17b6",
+        "name:ko": "\ub77d\uc790",
+        "name:lt": "Rac\u017ea",
+        "name:ru": "\u0420\u0430\u0442\u044c\u0437\u044f",
+        "name:vi": "R\u1ea1ch Gi\u00e1",
+        "name:zh": "\u8fea\u77f3\u5e02",
+        "official_name": "Th\u00e0nh ph\u1ed1 R\u1ea1ch Gi\u00e1",
+        "official_name:en": "Rach Gia City",
+        "official_name:vi": "Th\u00e0nh ph\u1ed1 R\u1ea1ch Gi\u00e1",
+        "old_name:km": "\u1780\u17d2\u179a\u1798\u17bd\u1793\u179f",
+        "place": "city",
+        "wikidata": "Q36093",
+        "wikimedia_commons": "Category:Rach Gia",
+        "wikipedia": "vi:R\u1ea1ch Gi\u00e1 (th\u00e0nh ph\u1ed1)",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0958\u0924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0832623,
+          10.0107104
+        ]
+      },
+      "id": "node/369487039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369487044",
+        "name": "V\u0169ng T\u00e0u",
+        "name:ar": "\u0646\u062c \u062a\u0627\u0648",
+        "name:en": "V\u0169ng T\u00e0u",
+        "name:ja": "\u30d6\u30f3\u30bf\u30a6",
+        "name:km": "\u179c\u17c9\u17bb\u1784\u1790\u17c4",
+        "name:ko": "\ubd95\ub530\uc6b0",
+        "name:pronunciation": "v\u028aw\u014b\u0361m\u02e6\u02c0\u02e5\u2423taw\u02e7\u02e7",
+        "name:ru": "\u0412\u0443\u043d\u0433\u0442\u0430\u0443",
+        "name:uk": "\u0412\u0443\u043d\u0433\u0442\u0430\u0443",
+        "name:vi": "V\u0169ng T\u00e0u",
+        "name:vi-Hani": "\u6dce\u825a",
+        "name:zh-Hans": "\u5934\u987f\u5e02",
+        "name:zh-Hant": "\u982d\u9813\u5e02",
+        "official_name": "Th\u00e0nh ph\u1ed1 V\u0169ng T\u00e0u",
+        "official_name:en": "Vung Tau City",
+        "official_name:ru": "\u0413\u043e\u0440\u043e\u0434 \u0412\u0443\u043d\u0433\u0442\u0430\u0443",
+        "official_name:vi": "Th\u00e0nh ph\u1ed1 V\u0169ng T\u00e0u",
+        "old_name": "Cap Saint-Jacques",
+        "old_name:fr": "Cap Saint-Jacques",
+        "old_name:ru": "\u041c\u044b\u0441 \u0421\u0435\u043d-\u0416\u0430\u043a\u0430",
+        "place": "city",
+        "population": "380000",
+        "population:date": "2012",
+        "ref": "VT",
+        "wikidata": "Q21194",
+        "wikipedia": "en:V\u0169ng T\u00e0u",
+        "name:km_encoded": "\u0957\u0937\u0912\u090c\u0943\u0904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0765028,
+          10.3486485
+        ]
+      },
+      "id": "node/369487044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369487102",
+        "capital": "4",
+        "name": "S\u00f3c Tr\u0103ng",
+        "name:en": "S\u00f3c Tr\u0103ng",
+        "name:ja": "\u30bd\u30af\u30c1\u30e3\u30f3",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1781\u17c1\u178f\u17d2\u178f\u1783\u17d2\u179b\u17b6\u17c6\u1784",
+        "name:ko": "\uc18d\uc9f1\uc2dc",
+        "name:ru": "\u0428\u043e\u043a\u0447\u0430\u043d\u0433",
+        "name:uk": "\u0428\u043e\u043a\u0447\u0430\u043d\u0433",
+        "name:vi": "S\u00f3c Tr\u0103ng",
+        "name:zh": "\u6714\u5e84\u5e02",
+        "name:zh-Hant": "\u6714\u838a\u5e02",
+        "official_name": "Th\u00e0nh ph\u1ed1 S\u00f3c Tr\u0103ng",
+        "old_name": "Kh\u00e1nh H\u01b0ng",
+        "place": "city",
+        "wikidata": "Q33418",
+        "wikimedia_commons": "Category:Soc Trang City",
+        "wikipedia": "en:S\u00f3c Tr\u0103ng",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0943\u094a\u093f\u092d\u0910\u0944\u0918\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9733211,
+          9.6026724
+        ]
+      },
+      "id": "node/369487102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369493828",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u179c\u17b7\u178f",
+        "name:en": "Bavet",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u179c\u17b7\u178f",
+        "name:ru": "\u0411\u0430\u0432\u0435\u0442",
+        "name:vi": "Bavet",
+        "name:zh": "\u5df4\u57df",
+        "place": "city",
+        "wikidata": "Q1385809",
+        "wikipedia": "en:Bavet municipality",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u091d\u0957\u0960\u093f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1385245,
+          11.0641239
+        ]
+      },
+      "id": "node/369493828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369494387",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17d2\u179a\u1785\u17c1\u17c7",
+        "name:en": "Krati\u00e9",
+        "name:fr": "Krati\u00e9",
+        "name:ja": "\u30af\u30e9\u30c1\u30a8",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17d2\u179a\u1785\u17c1\u17c7",
+        "name:ru": "\u041a\u0440\u0430\u0442\u044c\u044d\u0445",
+        "place": "city",
+        "wikidata": "Q6436397",
+        "wikipedia": "en:Krati\u00e9",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0935\u0902\u0943\u093b\u0907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0200894,
+          12.4889566
+        ]
+      },
+      "id": "node/369494387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369497396",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17d2\u1791\u17b9\u1784\u17a0\u17b6\u179c",
+        "name:en": "Stung Hav",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17d2\u1791\u17b9\u1784\u17a0\u17b6\u179c",
+        "name:ru": "\u0421\u0442\u044b\u043d\u0433\u0445\u0430\u0443",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u092c\u0956\u095e\u090c\u0940\u0957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6200444,
+          10.7432829
+        ]
+      },
+      "id": "node/369497396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369497420",
+        "alt_name": "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17c4\u17c7\u1780\u17bb\u1784",
+        "alt_name:en": "Krong Koh Kong",
+        "alt_name:fr": "Kaoh Kong",
+        "alt_name:ru": "\u041a\u0445\u0435\u043c\u0430\u0440\u0430\u043a\u043f\u0445\u0443\u043c\u0438\u043d\u0432\u0438\u043b\u044c",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1781\u17c1\u1798\u179a\u1797\u17bc\u1798\u17b7\u1793\u17d2\u1791",
+        "name:en": "Koh Kong",
+        "name:fr": "Koh Kong",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1781\u17c1\u1798\u179a\u1797\u17bc\u1798\u17b7\u1793\u17d2\u1791",
+        "name:ru": "\u041a\u0445\u0435\u043c\u0430\u0440\u0430\u043a\u043f\u0445\u0443\u043c\u0438\u043d",
+        "place": "city",
+        "wikidata": "Q4929536",
+        "wikipedia": "en:Khemarak Phoumin Municipality",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0943\u094a\u090d\u0908\u0946\u090a\u090d\u0955\u091c\u0917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9818592,
+          11.6110095
+        ]
+      },
+      "id": "node/369497420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369498090",
+        "name": "V\u0129nh Ch\u00e2u",
+        "name:en": "Vinh Chau",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1787\u17d2\u179a\u17c4\u1799 \u1789",
+        "name:ko": "\ube48\uca4c\uc6b0",
+        "name:ru": "\u0412\u0438\u043d\u044c\u0442\u044f\u0443",
+        "name:zh": "\u6c38\u5dde\u5e02\u793e",
+        "name:zh-Hans": "\u6c38\u5dde\u5e02\u793e",
+        "name:zh-Hant": "\u6c38\u5dde\u5e02\u793e",
+        "place": "town",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0943\u0935\u0924\u0948 \u091a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.980572,
+          9.3238559
+        ]
+      },
+      "id": "node/369498090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369498295",
+        "name": "Gi\u1ed3ng Ri\u1ec1ng",
+        "name:en": "Gi\u1ed3ng Ri\u1ec1ng",
+        "name:km": "\u1796\u17d2\u179a\u17c3\u179a\u17c6\u178a\u17c1\u1784",
+        "name:ko": "\uc885\ub9ac\uc5e5",
+        "name:vi": "Gi\u1ed3ng Ri\u1ec1ng",
+        "name:zh-Hans": "\u6995\u83b2\u5e02\u9547",
+        "name:zh-Hant": "\u6995\u84ee\u5e02\u93ae",
+        "place": "town",
+        "wikidata": "Q10761934",
+        "wikipedia": "vi:Gi\u1ed3ng Ri\u1ec1ng (th\u1ecb tr\u1ea5n)",
+        "name:km_encoded": "\u0900\u0935\u095a\u0908\u093e\u0943\u0913\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3116983,
+          9.9090719
+        ]
+      },
+      "id": "node/369498295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369500645",
+        "name": "K\u1ebf S\u00e1ch",
+        "name:en": "K\u1ebf S\u00e1ch",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780",
+        "name:ko": "\uaed8\uc0ad",
+        "name:vi": "K\u1ebf S\u00e1ch",
+        "name:zh": "\u8a08\u518a\u5e02\u93ae",
+        "name:zh-Hans": "\u8ba1\u518c\u5e02\u9547",
+        "name:zh-Hant": "\u8a08\u518a\u5e02\u93ae",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9850377,
+          9.7682895
+        ]
+      },
+      "id": "node/369500645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369500987",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u200b\u1798\u17c1\u1798\u178f\u17cb",
+        "name:en": "Memot",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u1798\u17c1\u1798\u178f\u17cb",
+        "name:ru": "\u041c\u0438\u043c\u043e\u0442",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0943\u090d\u090d\u093f\u0919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1767776,
+          11.822536
+        ]
+      },
+      "id": "node/369500987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369501094",
+        "name": "M\u1ef9 Xuy\u00ean",
+        "name:en": "M\u1ef9 Xuy\u00ean",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u1799\u200b\u1786\u17c5",
+        "name:ko": "\ubbf8\uc464\uc60c",
+        "name:vi": "M\u1ef9 Xuy\u00ean",
+        "name:zh-Hans": "\u7f8e\u5ddd\u5e02\u9547",
+        "name:zh-Hant": "\u7f8e\u5ddd\u5e02\u93ae",
+        "place": "town",
+        "wikidata": "Q10796903",
+        "wikipedia": "vi:M\u1ef9 Xuy\u00ean (th\u1ecb tr\u1ea5n)",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u091d\u0948\u200b\u0943\u0964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.989376,
+          9.5602955
+        ]
+      },
+      "id": "node/369501094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369502069",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u1784\u17d2\u1782\u179f\u17d2\u1793\u17bd\u179b",
+        "name:en": "Angk Snuol District",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u1784\u17d2\u1782\u179f\u17d2\u1793\u17bd\u179b",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0942\u090c\u0922\u092c\u0909\u093d\u0953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7157787,
+          11.5078333
+        ]
+      },
+      "id": "node/369502069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560229438",
+        "admin_level": "2",
+        "alt_name:vi": "Nam Vang",
+        "capital": "yes",
+        "capital_ISO3166-1": "yes",
+        "ele": "12",
+        "int_name": "Phnom Penh",
+        "name": "\u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
+        "name:am": "\u1355\u1296\u121d \u1354\u1295",
+        "name:ar": "\u0628\u0646\u0648\u0645 \u0628\u0646\u0647",
+        "name:be": "\u041f\u043d\u0430\u043c\u043f\u0435\u043d\u044c",
+        "name:be-tarask": "\u041f\u043d\u043e\u043c\u043f\u044d\u043d\u044c",
+        "name:bg": "\u041f\u043d\u043e\u043c \u041f\u0435\u043d",
+        "name:bjn": "Phnum P\u00e9ny",
+        "name:bn": "\u09a8\u09ae \u09aa\u09c7\u09a8",
+        "name:bo": "\u0f55\u0f7c\u0f58\u0f0b\u0f55\u0f7a\u0f53\u0f0d",
+        "name:ckb": "\u067e\u0646\u06c6\u0645 \u067e\u06ce\u0646",
+        "name:cs": "Phnompenh",
+        "name:de": "Phnom Penh",
+        "name:el": "\u03a0\u03bd\u03bf\u03bc \u03a0\u03b5\u03bd\u03c7",
+        "name:en": "Phnom Penh",
+        "name:eo": "Pnom-Peno",
+        "name:es": "Nom Pen",
+        "name:et": "Phnom Penh",
+        "name:eu": "Phnom Penh",
+        "name:fa": "\u067e\u0646\u0648\u0645\u200c\u067e\u0646",
+        "name:fr": "Phnom Penh",
+        "name:fy": "Pnom Pen",
+        "name:he": "\u05e4\u05e0\u05d5\u05dd \u05e4\u05df",
+        "name:hi": "\u0928\u093e\u092e\u092a\u0947\u0928\u094d\u0939",
+        "name:hu": "Phnompen",
+        "name:hy": "\u054a\u0576\u0578\u0574\u057a\u0565\u0576",
+        "name:it": "Phnom Penh",
+        "name:ja": "\u30d7\u30ce\u30f3\u30da\u30f3",
+        "name:ka": "\u10de\u10dc\u10dd\u10db\u10de\u10d4\u10dc\u10d8",
+        "name:km": "\u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
+        "name:km:IPA": "ri\u0259c.t\u02b0i\u0259.ni\u02d0 p\u02b0num p\u0268\u0272",
+        "name:kn": "\u0cab\u0ccd\u0ca8\u0cca\u0cae\u0ccd \u0caa\u0cc6\u0ca8\u0ccd",
+        "name:ko": "\ud504\ub188\ud39c",
+        "name:lt": "Pnompenis",
+        "name:lv": "Pnompe\u0146a",
+        "name:lzh": "\u91d1\u908a",
+        "name:mk": "\u041f\u043d\u043e\u043c \u041f\u0435\u043d",
+        "name:ml": "\u0d28\u0d4b\u0d02 \u0d2a\u0d46\u0d7b",
+        "name:mr": "\u092a\u0928\u0949\u092e \u092a\u0947\u0928",
+        "name:my": "\u1016\u1014\u103d\u1019\u103a\u1038\u1015\u1004\u103a\u1019\u103c\u102d\u102f\u1037",
+        "name:nl": "Pnom Penh",
+        "name:oc": "Phnom Penh",
+        "name:os": "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c",
+        "name:pl": "Phnom Penh",
+        "name:pnb": "\u0641\u0646\u0648\u0645 \u067e\u0646",
+        "name:pt": "Phnom Penh",
+        "name:ru": "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c",
+        "name:sah": "\u041f\u043d\u043e\u043c \u041f\u044d\u043d\u044c",
+        "name:sk": "Phnom P\u00e9nh",
+        "name:sr": "\u041f\u043d\u043e\u043c \u041f\u0435\u043d",
+        "name:sv": "Phnom Penh",
+        "name:ta": "\u0baa\u0bc1\u0ba9\u0bcb\u0bae\u0bcd \u0baa\u0bc6\u0ba9\u0bcd",
+        "name:th": "\u0e1e\u0e19\u0e21\u0e40\u0e1b\u0e0d",
+        "name:ug": "\u0641\u0646\u0648\u0645 \u067e\u06d0\u0646",
+        "name:uk": "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c",
+        "name:vi": "Phn\u00f4m P\u00eanh",
+        "name:vo": "Phnum P\u00e9nh",
+        "name:wuu": "\u91d1\u8fb9",
+        "name:zh": "\u91d1\u8fb9/\u91d1\u908a",
+        "name:zh-Hans": "\u91d1\u8fb9",
+        "name:zh-Hant": "\u91d1\u908a",
+        "place": "city",
+        "population": "2009264",
+        "source:name:oc": "Lo Congr\u00e8s",
+        "wikidata": "Q1850",
+        "wikipedia": "km:\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
+        "wikivoyage": "en:Phnom Penh",
+        "name:km_encoded": "\u0958\u0914\u0905\u091c\u0947\u0946\u092f\u095f\u0943\u095a\u091a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9224426,
+          11.568271
+        ]
+      },
+      "id": "node/560229438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1961312680",
+        "amenity": "atm",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u1782\u17b6\u179f\u17cb\u1780\u17d2\u179a\u17a1",
+        "name:en": "Koas Krala",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u1782\u17b6\u179f\u17cb\u1780\u17d2\u179a\u17a1",
+        "operator": "\u179a\u1784\u17d2\u179c\u1784\u17cb\u1798\u17bc\u179b",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0961\u092c\u092a\u0935\u0902\u0938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2628529,
+          12.7550281
+        ]
+      },
+      "id": "node/1961312680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022623613",
+        "addr:postcode": "120300",
+        "admin_level": "6",
+        "name": "\u1781\u178e\u17d2\u178c\u17e7\u1798\u1780\u179a\u17b6",
+        "name:en": "Khan Prampi Makara",
+        "name:fr": "Prampi Makara",
+        "name:km": "\u1781\u178e\u17d2\u178c\u17e7\u1798\u1780\u179a\u17b6",
+        "name:vi": "Qu\u1eadn Prampi Makara",
+        "name:zh": "\u739b\u5361\u62c9\u533a",
+        "place": "town",
+        "name:km_encoded": "\u094a\u092e\u092b\u0925\u090d\u0902\u0958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9106689,
+          11.5637649
+        ]
+      },
+      "id": "node/2022623613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022802976",
+        "addr:postcode": "120100",
+        "admin_level": "6",
+        "name": "\u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793",
+        "name:en": "Khan Chamkar Mon",
+        "name:km": "\u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793",
+        "name:vi": "Qu\u1eadn Chamkar Mon",
+        "name:zh": "\u6851\u56ed\u533a",
+        "place": "town",
+        "name:km_encoded": "\u094a\u092e\u092b\u093b\u0927\u0962\u0908\u090d\u091c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9208767,
+          11.5373071
+        ]
+      },
+      "id": "node/2022802976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026085956",
+        "addr:postcode": "120900",
+        "admin_level": "6",
+        "description": "\u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799 \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
+        "name": "\u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799",
+        "name:en": "Khan Por Senchey",
+        "name:km": "\u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799",
+        "place": "town",
+        "name:km_encoded": "\u094a\u092e\u092b\u0943\u094c\u0951\u0949\u0921\u092c\u091c\u0914\u0929\u0948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.826722,
+          11.5538562
+        ]
+      },
+      "id": "node/2026085956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026101925",
+        "addr:postcode": "120700",
+        "admin_level": "6",
+        "name": "\u1781\u178e\u17d2\u178c\u17ab\u179f\u17d2\u179f\u17b8\u1780\u17c2\u179c",
+        "name:en": "Khan Russey Keo",
+        "name:km": "\u1781\u178e\u17d2\u178c\u17ab\u179f\u17d2\u179f\u17b8\u1780\u17c2\u179c",
+        "place": "town",
+        "name:km_encoded": "\u094a\u092e\u092b\u0934\u092c\u093c\u0941\u0921\u0902\u0957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9037583,
+          11.6287927
+        ]
+      },
+      "id": "node/2026101925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026102703",
+        "addr:postcode": "120800",
+        "admin_level": "6",
+        "name": "\u1781\u178e\u17d2\u178c\u179f\u17c2\u1793\u179f\u17bb\u1781",
+        "name:en": "Khan Sen Sok",
+        "name:km": "\u1781\u178e\u17d2\u178c\u179f\u17c2\u1793\u179f\u17bb\u1781",
+        "place": "town",
+        "name:km_encoded": "\u094a\u092e\u092b\u0921\u092c\u091c\u092c\u0954\u094a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8692475,
+          11.5785557
+        ]
+      },
+      "id": "node/2026102703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2240814956",
+        "alt_name": "Srae Ambel",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17d2\u179a\u17c2\u17a2\u17c6\u1794\u17b7\u179b",
+        "name:en": "Sre Ambel",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17d2\u179a\u17c2\u17a2\u17c6\u1794\u17b7\u179b",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0921\u0935\u092c\u0942\u095f\u0916\u0955\u0953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7475251,
+          11.1238475
+        ]
+      },
+      "id": "node/2240814956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3896048885",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u1794\u179a\u17b7\u1794\u17bc\u178e\u17cc",
+        "name:en": "Baribour",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u1794\u179a\u17b7\u1794\u17bc\u178e\u17cc",
+        "name:ru": "\u0411\u0430\u0440\u0438\u0431\u043e",
+        "place": "town",
+        "wikidata": "Q4860702",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0916\u0908\u0933\u0916\u0939\u092e\u0963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4623541,
+          12.4389574
+        ]
+      },
+      "id": "node/3896048885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3896048886",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c6\u1796\u1784\u17cb\u179b\u17c2\u1784",
+        "name:en": "Kampong Leaeng",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c6\u1796\u1784\u17cb\u179b\u17c2\u1784",
+        "name:ru": "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u043b\u044d\u043d\u0433",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0902\u095f\u095a\u090c\u0936\u0921\u0953\u090c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7254311,
+          12.2741853
+        ]
+      },
+      "id": "node/3896048886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3896048887",
+        "name": "\u179f\u17d2\u179a\u17bb\u1780\u1797\u17d2\u1793\u17c6\u1780\u17d2\u179a\u179c\u17c9\u17b6\u1789",
+        "name:en": "Phnom Kravanh",
+        "name:km": "\u179f\u17d2\u179a\u17bb\u1780\u1797\u17d2\u1793\u17c6\u1780\u17d2\u179a\u179c\u17c9\u17b6\u1789",
+        "place": "town",
+        "name:km_encoded": "\u0935\u092c\u0952\u0902\u0946\u092f\u095f\u0935\u0902\u091b\u0911\u091a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7641348,
+          12.3505536
+        ]
+      },
+      "id": "node/3896048887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784550785",
+        "name": "Sa R\u00e0i",
+        "name:en": "Sa R\u00e0i",
+        "name:km": "\u179f\u17b6\u179a\u17b6\u1799\u178e\u17cd",
+        "name:ko": "\uc0ac\ub77c\uc774",
+        "name:vi": "Sa R\u00e0i",
+        "name:zh": "\u6c99\u6d9e\u5e02\u9547",
+        "official_name": "Sa R\u00e0i",
+        "place": "town",
+        "population": "11360",
+        "source:name": "GNS",
+        "name:km_encoded": "\u090e\u0958\u0948\u092e\u094f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4623666,
+          10.8732222
+        ]
+      },
+      "id": "node/4784550785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466270897",
+        "name": "Ph\u00fa Qu\u1ed1c",
+        "name:en": "Ph\u00fa Qu\u1ed1c",
+        "name:fr": "Ph\u00fa Qu\u1ed1c",
+        "name:ja": "\u30d5\u30fc\u30b3\u30c3\u30af\u5e02",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1797\u17bc\u1782\u17bd\u1785",
+        "name:ko": "\ud478\uafb8\uc625\uc2dc",
+        "name:vi": "Ph\u00fa Qu\u1ed1c",
+        "name:zh": "\u5bcc\u570b\u5e02",
+        "name:zh-Hans": "\u5bcc\u56fd\u5e02",
+        "name:zh-Hant": "\u5bcc\u570b\u5e02",
+        "place": "city",
+        "population": "144460",
+        "wikidata": "Q146695",
+        "wikipedia": "vi:Ph\u00fa Qu\u1ed1c",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u0946\u090a\u0906\u0901\u093b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9875395,
+          10.2162807
+        ]
+      },
+      "id": "node/6466270897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6588896221",
+        "is_capital": "province",
+        "name": "\u1780\u17d2\u179a\u17bb\u1784\u1785\u17d2\u1794\u17b6\u179a\u1798\u1793",
+        "name:en": "Chbar Mon",
+        "name:fr": "Chbar Mon",
+        "name:km": "\u1780\u17d2\u179a\u17bb\u1784\u1785\u17d2\u1794\u17b6\u179a\u1798\u1793",
+        "name:ru": "\u0422\u044c\u0431\u0430\u043c\u043e\u043d",
+        "place": "city",
+        "wikidata": "Q5088735",
+        "wikipedia": "en:Chbar Mon Municipality",
+        "name:km_encoded": "\u0935\u0902\u091e\u090c\u093b\u0931\u0908\u090d\u091c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5194625,
+          11.4647156
+        ]
+      },
+      "id": "node/6588896221"
+    }
+  ]
+}

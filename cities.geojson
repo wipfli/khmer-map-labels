@@ -1,0 +1,1212 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2023-12-06T07:01:00Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/74099711",
+          "name": "Châu Đốc",
+          "name:en": "Châu Đốc",
+          "name:ja": "チャウドック",
+          "name:km": "ក្រុងមាត់ជ្រូក",
+          "name:ko": "쩌우독",
+          "name:ru": "Тяудок",
+          "name:vi-Hani": "朱篤",
+          "name:zh-Hans": "朱笃市",
+          "name:zh-Hant": "朱篤市",
+          "place": "city",
+          "population": "157298",
+          "wikidata": "Q373214",
+          "wikipedia": "vi:Châu Đốc (thành phố)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.1188675,
+            10.7101815
+          ]
+        },
+        "id": "node/74099711"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256842008",
+          "is_capital": "province",
+          "name": "ក្រុងស្ទឹងត្រែង",
+          "name:en": "Stung Treng",
+          "name:fr": "Stoeng Treng",
+          "name:ja": "ストゥントレン",
+          "name:km": "ក្រុងស្ទឹងត្រែង",
+          "name:ru": "Стынгтраенг",
+          "note": "See more at: https://github.com/gravitystorm/openstreetmap-carto/pull/358",
+          "place": "city",
+          "population": "29665",
+          "wikidata": "Q10859501",
+          "wikipedia": "en:Stung Treng"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.9686727,
+            13.5271207
+          ]
+        },
+        "id": "node/256842008"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256873493",
+          "name": "ស្រុក​សៀមប៉ាង",
+          "name:en": "Siem Pang",
+          "name:km": "ស្រុកសៀមប៉ាង",
+          "name:ru": "Сиемпанг",
+          "place": "town",
+          "wikidata": "Q4929494"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.3868945,
+            14.1163575
+          ]
+        },
+        "id": "node/256873493"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256873929",
+          "name": "ស្រុកលំផាត់",
+          "name:en": "Lumphat",
+          "name:km": "ស្រុកលំផាត់",
+          "name:ru": "Ломпхат",
+          "place": "town",
+          "wikidata": "Q2235920"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.9736284,
+            13.4998503
+          ]
+        },
+        "id": "node/256873929"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256874025",
+          "name": "ស្រុកវើនសៃ",
+          "name:en": "Veun Sai",
+          "name:km": "ស្រុកវើនសៃ",
+          "name:ru": "Вэнсай",
+          "place": "town",
+          "wikidata": "Q7923859"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.8137949,
+            13.9720878
+          ]
+        },
+        "id": "node/256874025"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256889019",
+          "is_capital": "province",
+          "name": "ក្រុងស្ទឹងសែន",
+          "name:en": "Stueng Saen",
+          "name:fr": "Stueng Saen",
+          "name:km": "ក្រុងស្ទឹងសែន",
+          "name:ko": "스텅상",
+          "name:ru": "Стынгсаен",
+          "name:vi": "Stueng Saen",
+          "name:zh": "斯登森",
+          "place": "city",
+          "population": "48000"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.8891082,
+            12.7126242
+          ]
+        },
+        "id": "node/256889019"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256990829",
+          "int_name": "Sisophon",
+          "is_capital": "province",
+          "name": "ក្រុងសិរីសោភ័ណ",
+          "name:en": "Sisophon",
+          "name:et": "Sisŏphŏn",
+          "name:fr": "Sisophon",
+          "name:ja": "シソポン",
+          "name:km": "ក្រុងសិរីសោភ័ណ",
+          "name:ru": "Сисопхон",
+          "place": "city",
+          "population": "132264",
+          "wikidata": "Q855717",
+          "wikipedia": "km:ក្រុងសិរីសោភ័ណ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            102.9700274,
+            13.5884004
+          ]
+        },
+        "id": "node/256990829"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256991275",
+          "alt_name:vi": "Bát-đom-boong",
+          "int_name": "Battambang",
+          "is_capital": "province",
+          "name": "ក្រុងបាត់ដំបង",
+          "name:bg": "Батамбанг",
+          "name:bn": "ব্যাটামবং",
+          "name:el": "Μπατταμπάνγκ",
+          "name:en": "Battambang",
+          "name:es": "Ciudad de Battambang",
+          "name:et": "Bătdâmbâng",
+          "name:fi": "Băt Dâmbâng",
+          "name:fr": "Battambang",
+          "name:ja": "バタンバン",
+          "name:km": "ក្រុងបាត់ដំបង",
+          "name:ko": "바탐방",
+          "name:lt": "Batambangas",
+          "name:ru": "Баттамбанг",
+          "name:sr": "Батамбанг",
+          "name:vi": "Bát-tam-bang",
+          "name:zh": "馬德望",
+          "place": "city",
+          "population": "180318",
+          "wikidata": "Q748336",
+          "wikipedia": "en:Battambang"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.1966659,
+            13.0998526
+          ]
+        },
+        "id": "node/256991275"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256991787",
+          "name": "ស្រុក​គូលែន",
+          "name:en": "Srok Kulaen",
+          "name:km": "ស្រុកគូលែន",
+          "name:ru": "Кулен",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.6996781,
+            13.818762
+          ]
+        },
+        "id": "node/256991787"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256992516",
+          "alt_name": "Tbeang Meanchay",
+          "capital": "4",
+          "is_capital": "province",
+          "name": "ក្រុងព្រះវិហារ",
+          "name:en": "Preah Vihear",
+          "name:fr": "Thbeng Meanchey",
+          "name:ja": "プレアヴィヒア",
+          "name:km": "ក្រុងព្រះវិហារ",
+          "name:ru": "Прэахвихеа",
+          "name:uk": "Преахвіхеа",
+          "place": "city",
+          "wikidata": "Q2428308",
+          "wikipedia": "fr:Tbeng Meancheay"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.9742871,
+            13.8012643
+          ]
+        },
+        "id": "node/256992516"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/256993179",
+          "is_capital": "province",
+          "name": "ក្រុងសែនមនោរម្យ",
+          "name:en": "Senmonorom",
+          "name:fr": "Saen Monourom",
+          "name:ja": "センモノロム",
+          "name:km": "ក្រុងសែនមនោរម្យ",
+          "name:ru": "Сенмонором",
+          "name:uk": "Сенмонором",
+          "place": "city",
+          "wikidata": "Q2530693",
+          "wikipedia": "en:Senmonorom"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            107.1865184,
+            12.4568561
+          ]
+        },
+        "id": "node/256993179"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/257735781",
+          "name": "ស្រុកអន្លង់វែង",
+          "name:en": "Anlong Veng",
+          "name:ja": "アンロンベン",
+          "name:km": "ស្រុកអន្លង់វែង",
+          "name:ru": "Анлонгвэнг",
+          "place": "town",
+          "wikidata": "Q557911"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.0812013,
+            14.2331742
+          ]
+        },
+        "id": "node/257735781"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/257838557",
+          "int_name": "Siem Reap",
+          "is_capital": "province",
+          "name": "ក្រុងសៀមរាប",
+          "name:ar": "سيام ريب",
+          "name:en": "Siem Reap",
+          "name:es": "Ciudad de Siem Riep",
+          "name:et": "Siĕm Réab",
+          "name:fa": "سیه‌م رئاپ",
+          "name:fi": "Siĕm Réab",
+          "name:fr": "Siem Reap",
+          "name:hi": "सीम रीप",
+          "name:ja": "シェムリアップ",
+          "name:km": "ក្រុងសៀមរាប",
+          "name:ko": "시엠레아프",
+          "name:lt": "Siemreabas",
+          "name:ml": "സിയം റീപ്",
+          "name:nl": "Siem Reap",
+          "name:ru": "Сиемреап",
+          "name:sr": "Сием Реап",
+          "name:th": "เสียมราฐ",
+          "name:vi": "Xiêm Riệp",
+          "name:zh": "暹粒市",
+          "place": "city",
+          "population": "171800",
+          "wikidata": "Q11711",
+          "wikipedia": "en:Siem Reap"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.8590321,
+            13.3617562
+          ]
+        },
+        "id": "node/257838557"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/257885052",
+          "ele": "4",
+          "is_capital": "province",
+          "name": "ក្រុងកែប",
+          "name:en": "Kep",
+          "name:fr": "Kep",
+          "name:ja": "ケップ",
+          "name:km": "ក្រុងកែប",
+          "name:ko": "케프",
+          "name:ru": "Каеп",
+          "name:vi": "Kep",
+          "place": "city",
+          "population": "35990",
+          "wikidata": "Q14204826",
+          "wikipedia": "de:Kep (Kambodscha)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.3148207,
+            10.4860396
+          ]
+        },
+        "id": "node/257885052"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/257885151",
+          "int_name": "Kampot",
+          "is_capital": "province",
+          "name": "ក្រុងកំពត",
+          "name:en": "Kampot",
+          "name:fr": "Kampot",
+          "name:ja": "カンポット",
+          "name:km": "ក្រុងកំពត",
+          "name:ko": "캄포트",
+          "name:ru": "Кампот",
+          "name:th": "กำปอต",
+          "name:uk": "Кампот",
+          "name:vi": "Kampot",
+          "place": "city",
+          "population": "39186",
+          "wikidata": "Q876549",
+          "wikimedia_commons": "Category:Kampot",
+          "wikipedia": "en:Kampot (city)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.1797339,
+            10.6183061
+          ]
+        },
+        "id": "node/257885151"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369486734",
+          "alt_name": "Sài Gòn",
+          "alt_name:en": "Saigon",
+          "alt_name:ko": "사이공",
+          "alt_name:zh": "西贡",
+          "capital": "4",
+          "name": "Thành phố Hồ Chí Minh",
+          "name:ar": "مدينة هو تشي منه",
+          "name:cjm-Latn": "Madin Hồ Chí Minh",
+          "name:ckb": "هۆشی‌مین",
+          "name:cs": "Ho Či Minovo Město",
+          "name:de": "Ho-Chi-Minh-Stadt",
+          "name:el": "Χο Τσι Μιν",
+          "name:en": "Ho Chi Minh City",
+          "name:es": "Ciudad Ho Chi Minh",
+          "name:et": "Hồ Chí Minh",
+          "name:eu": "Ho Chi Minh Hiria",
+          "name:fa": "هوشی‌مین",
+          "name:fr": "Hô Chi Minh-Ville",
+          "name:he": "הו צ'י מין סיטי",
+          "name:hr": "Grad Ho Chi Minh",
+          "name:id": "Kota Ho Chi Minh",
+          "name:it": "Città di Ho Chi Minh",
+          "name:ja": "ホーチミン市",
+          "name:km": "ទីក្រុង​ហូ​ជី​មិញ",
+          "name:ko": "호찌민",
+          "name:lv": "Hočimina",
+          "name:ml": "ഹോ ചി മിൻ നഗരം",
+          "name:ms": "Bandaraya Ho Chi Minh",
+          "name:nl": "Ho Chi Minhstad",
+          "name:oc": "Hô Chi Minh Vila",
+          "name:ru": "Хошимин",
+          "name:sk": "Hočiminovo Mesto",
+          "name:vi": "Thành phố Hồ Chí Minh",
+          "name:vi-US": "Sài Gòn",
+          "name:zh": "胡志明市",
+          "note": "\"Thành phố\" or \"City\" is often being added to prevent confusion with the Hồ Chí Minh person itself. Don't remove it",
+          "official_name": "Ho Chi Minh City",
+          "official_name:en": "Ho Chi Minh City",
+          "official_name:vi": "Thành phố Hồ Chí Minh",
+          "old_name": "Saigon",
+          "old_name:cjm-Latn": "Baigaor",
+          "old_name:cs": "Saigon",
+          "old_name:de": "Saigon",
+          "old_name:en": "Saigon",
+          "old_name:fr": "Saïgon",
+          "old_name:hr": "Saigon",
+          "old_name:it": "Saigon",
+          "old_name:ko": "사이공",
+          "old_name:la": "Saigonia",
+          "old_name:lv": "Saigona",
+          "old_name:pronunciation": "ʂaːj˨˩␣ɣɔŋ˨˩",
+          "old_name:vi": "Sài Gòn",
+          "old_name:zh": "西貢市",
+          "place": "city",
+          "population": "9166800",
+          "population:date": "2022",
+          "rank": "0",
+          "ref": "TPHCM",
+          "short_name": "Tp. HCM;HCM;SG",
+          "short_name:en": "HCMC;SG",
+          "short_name:vi": "Tp. HCM;HCM;SG",
+          "source:name:oc": "Lo Congrès",
+          "source:population": "national survey",
+          "website": "https://www.hochiminhcity.gov.vn/",
+          "wikidata": "Q1854",
+          "wikipedia": "vi:Thành phố Hồ Chí Minh"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.7011391,
+            10.7763897
+          ]
+        },
+        "id": "node/369486734"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369487028",
+          "capital": "4",
+          "name": "Đà Nẵng",
+          "name:en": "Đà Nẵng",
+          "name:eo": "Danango",
+          "name:ja": "ダナン",
+          "name:km": "ដាណាំង",
+          "name:ko": "다낭",
+          "name:pt": "Da Nang",
+          "name:ru": "Дананг",
+          "name:zh": "岘港市",
+          "name:zh-Hant": "峴港市",
+          "name:zh_pinyin": "Xian Gang Shi",
+          "official_name": "Thành phố Đà Nẵng",
+          "official_name:en": "Da Nang City",
+          "official_name:vi": "Thành phố Đà Nẵng",
+          "old_name:1889-1945": "Tourane",
+          "old_name:en:1889-1945": "Tourane",
+          "old_name:fr:1889-1945": "Tourane",
+          "place": "city",
+          "population": "1007400",
+          "source:population": "DBpedia",
+          "wikidata": "Q25282",
+          "wikipedia": "en:Da Nang"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            108.212,
+            16.068
+          ]
+        },
+        "id": "node/369487028"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369487039",
+          "capital": "4",
+          "name": "Rạch Giá",
+          "name:en": "Rạch Giá",
+          "name:fa": "راچا گیا",
+          "name:fr": "Rach Gia",
+          "name:he": "ראץ' גיה",
+          "name:ja": "ラックザー",
+          "name:km": "ក្រុងរាជា",
+          "name:ko": "락자",
+          "name:lt": "Racža",
+          "name:ru": "Ратьзя",
+          "name:vi": "Rạch Giá",
+          "name:zh": "迪石市",
+          "official_name": "Thành phố Rạch Giá",
+          "official_name:en": "Rach Gia City",
+          "official_name:vi": "Thành phố Rạch Giá",
+          "old_name:km": "ក្រមួនស",
+          "place": "city",
+          "wikidata": "Q36093",
+          "wikimedia_commons": "Category:Rach Gia",
+          "wikipedia": "vi:Rạch Giá (thành phố)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.0832623,
+            10.0107104
+          ]
+        },
+        "id": "node/369487039"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369487044",
+          "name": "Vũng Tàu",
+          "name:ar": "نج تاو",
+          "name:en": "Vũng Tàu",
+          "name:ja": "ブンタウ",
+          "name:km": "វ៉ុងថោ",
+          "name:ko": "붕따우",
+          "name:pronunciation": "vʊwŋ͡m˦ˀ˥␣taw˧˧",
+          "name:ru": "Вунгтау",
+          "name:uk": "Вунгтау",
+          "name:vi": "Vũng Tàu",
+          "name:vi-Hani": "淎艚",
+          "name:zh-Hans": "头顿市",
+          "name:zh-Hant": "頭頓市",
+          "official_name": "Thành phố Vũng Tàu",
+          "official_name:en": "Vung Tau City",
+          "official_name:ru": "Город Вунгтау",
+          "official_name:vi": "Thành phố Vũng Tàu",
+          "old_name": "Cap Saint-Jacques",
+          "old_name:fr": "Cap Saint-Jacques",
+          "old_name:ru": "Мыс Сен-Жака",
+          "place": "city",
+          "population": "380000",
+          "population:date": "2012",
+          "ref": "VT",
+          "wikidata": "Q21194",
+          "wikipedia": "en:Vũng Tàu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            107.0765028,
+            10.3486485
+          ]
+        },
+        "id": "node/369487044"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369487102",
+          "capital": "4",
+          "name": "Sóc Trăng",
+          "name:en": "Sóc Trăng",
+          "name:ja": "ソクチャン",
+          "name:km": "ក្រុងខេត្តឃ្លាំង",
+          "name:ko": "속짱시",
+          "name:ru": "Шокчанг",
+          "name:uk": "Шокчанг",
+          "name:vi": "Sóc Trăng",
+          "name:zh": "朔庄市",
+          "name:zh-Hant": "朔莊市",
+          "official_name": "Thành phố Sóc Trăng",
+          "old_name": "Khánh Hưng",
+          "place": "city",
+          "wikidata": "Q33418",
+          "wikimedia_commons": "Category:Soc Trang City",
+          "wikipedia": "en:Sóc Trăng"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.9733211,
+            9.6026724
+          ]
+        },
+        "id": "node/369487102"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369493828",
+          "name": "ក្រុងបាវិត",
+          "name:en": "Bavet",
+          "name:km": "ក្រុងបាវិត",
+          "name:ru": "Бавет",
+          "name:vi": "Bavet",
+          "name:zh": "巴域",
+          "place": "city",
+          "wikidata": "Q1385809",
+          "wikipedia": "en:Bavet municipality"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.1385245,
+            11.0641239
+          ]
+        },
+        "id": "node/369493828"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369494387",
+          "is_capital": "province",
+          "name": "ក្រុងក្រចេះ",
+          "name:en": "Kratié",
+          "name:fr": "Kratié",
+          "name:ja": "クラチエ",
+          "name:km": "ក្រុងក្រចេះ",
+          "name:ru": "Кратьэх",
+          "place": "city",
+          "wikidata": "Q6436397",
+          "wikipedia": "en:Kratié"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.0200894,
+            12.4889566
+          ]
+        },
+        "id": "node/369494387"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369497396",
+          "name": "ស្រុកស្ទឹងហាវ",
+          "name:en": "Stung Hav",
+          "name:km": "ស្រុកស្ទឹងហាវ",
+          "name:ru": "Стынгхау",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.6200444,
+            10.7432829
+          ]
+        },
+        "id": "node/369497396"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369497420",
+          "alt_name": "ក្រុងកោះកុង",
+          "alt_name:en": "Krong Koh Kong",
+          "alt_name:fr": "Kaoh Kong",
+          "alt_name:ru": "Кхемаракпхуминвиль",
+          "is_capital": "province",
+          "name": "ក្រុងខេមរភូមិន្ទ",
+          "name:en": "Koh Kong",
+          "name:fr": "Koh Kong",
+          "name:km": "ក្រុងខេមរភូមិន្ទ",
+          "name:ru": "Кхемаракпхумин",
+          "place": "city",
+          "wikidata": "Q4929536",
+          "wikipedia": "en:Khemarak Phoumin Municipality"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            102.9818592,
+            11.6110095
+          ]
+        },
+        "id": "node/369497420"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369498090",
+          "name": "Vĩnh Châu",
+          "name:en": "Vinh Chau",
+          "name:km": "ក្រុងជ្រោយ ញ",
+          "name:ko": "빈쩌우",
+          "name:ru": "Виньтяу",
+          "name:zh": "永州市社",
+          "name:zh-Hans": "永州市社",
+          "name:zh-Hant": "永州市社",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.980572,
+            9.3238559
+          ]
+        },
+        "id": "node/369498090"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369498295",
+          "name": "Giồng Riềng",
+          "name:en": "Giồng Riềng",
+          "name:km": "ព្រៃរំដេង",
+          "name:ko": "종리엥",
+          "name:vi": "Giồng Riềng",
+          "name:zh-Hans": "榕莲市镇",
+          "name:zh-Hant": "榕蓮市鎮",
+          "place": "town",
+          "wikidata": "Q10761934",
+          "wikipedia": "vi:Giồng Riềng (thị trấn)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.3116983,
+            9.9090719
+          ]
+        },
+        "id": "node/369498295"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369500645",
+          "name": "Kế Sách",
+          "name:en": "Kế Sách",
+          "name:km": "ស្រុក",
+          "name:ko": "께삭",
+          "name:vi": "Kế Sách",
+          "name:zh": "計冊市鎮",
+          "name:zh-Hans": "计册市镇",
+          "name:zh-Hant": "計冊市鎮",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.9850377,
+            9.7682895
+          ]
+        },
+        "id": "node/369500645"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369500987",
+          "name": "ស្រុក​មេមត់",
+          "name:en": "Memot",
+          "name:km": "ស្រុកមេមត់",
+          "name:ru": "Мимот",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.1767776,
+            11.822536
+          ]
+        },
+        "id": "node/369500987"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369501094",
+          "name": "Mỹ Xuyên",
+          "name:en": "Mỹ Xuyên",
+          "name:km": "ក្រុងបាយ​ឆៅ",
+          "name:ko": "미쑤옌",
+          "name:vi": "Mỹ Xuyên",
+          "name:zh-Hans": "美川市镇",
+          "name:zh-Hant": "美川市鎮",
+          "place": "town",
+          "wikidata": "Q10796903",
+          "wikipedia": "vi:Mỹ Xuyên (thị trấn)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.989376,
+            9.5602955
+          ]
+        },
+        "id": "node/369501094"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/369502069",
+          "name": "ស្រុកអង្គស្នួល",
+          "name:en": "Angk Snuol District",
+          "name:km": "ស្រុកអង្គស្នួល",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.7157787,
+            11.5078333
+          ]
+        },
+        "id": "node/369502069"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/560229438",
+          "admin_level": "2",
+          "alt_name:vi": "Nam Vang",
+          "capital": "yes",
+          "capital_ISO3166-1": "yes",
+          "ele": "12",
+          "int_name": "Phnom Penh",
+          "name": "រាជធានីភ្នំពេញ",
+          "name:am": "ፕኖም ፔን",
+          "name:ar": "بنوم بنه",
+          "name:be": "Пнампень",
+          "name:be-tarask": "Пномпэнь",
+          "name:bg": "Пном Пен",
+          "name:bjn": "Phnum Pény",
+          "name:bn": "নম পেন",
+          "name:bo": "ཕོམ་ཕེན།",
+          "name:ckb": "پنۆم پێن",
+          "name:cs": "Phnompenh",
+          "name:de": "Phnom Penh",
+          "name:el": "Πνομ Πενχ",
+          "name:en": "Phnom Penh",
+          "name:eo": "Pnom-Peno",
+          "name:es": "Nom Pen",
+          "name:et": "Phnom Penh",
+          "name:eu": "Phnom Penh",
+          "name:fa": "پنوم‌پن",
+          "name:fr": "Phnom Penh",
+          "name:fy": "Pnom Pen",
+          "name:he": "פנום פן",
+          "name:hi": "नामपेन्ह",
+          "name:hu": "Phnompen",
+          "name:hy": "Պնոմպեն",
+          "name:it": "Phnom Penh",
+          "name:ja": "プノンペン",
+          "name:ka": "პნომპენი",
+          "name:km": "រាជធានីភ្នំពេញ",
+          "name:km:IPA": "riəc.tʰiə.niː pʰnum pɨɲ",
+          "name:kn": "ಫ್ನೊಮ್ ಪೆನ್",
+          "name:ko": "프놈펜",
+          "name:lt": "Pnompenis",
+          "name:lv": "Pnompeņa",
+          "name:lzh": "金邊",
+          "name:mk": "Пном Пен",
+          "name:ml": "നോം പെൻ",
+          "name:mr": "पनॉम पेन",
+          "name:my": "ဖနွမ်းပင်မြို့",
+          "name:nl": "Pnom Penh",
+          "name:oc": "Phnom Penh",
+          "name:os": "Пномпень",
+          "name:pl": "Phnom Penh",
+          "name:pnb": "فنوم پن",
+          "name:pt": "Phnom Penh",
+          "name:ru": "Пномпень",
+          "name:sah": "Пном Пэнь",
+          "name:sk": "Phnom Pénh",
+          "name:sr": "Пном Пен",
+          "name:sv": "Phnom Penh",
+          "name:ta": "புனோம் பென்",
+          "name:th": "พนมเปญ",
+          "name:ug": "فنوم پېن",
+          "name:uk": "Пномпень",
+          "name:vi": "Phnôm Pênh",
+          "name:vo": "Phnum Pénh",
+          "name:wuu": "金边",
+          "name:zh": "金边/金邊",
+          "name:zh-Hans": "金边",
+          "name:zh-Hant": "金邊",
+          "place": "city",
+          "population": "2009264",
+          "source:name:oc": "Lo Congrès",
+          "wikidata": "Q1850",
+          "wikipedia": "km:ភ្នំពេញ",
+          "wikivoyage": "en:Phnom Penh"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.9224426,
+            11.568271
+          ]
+        },
+        "id": "node/560229438"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1961312680",
+          "amenity": "atm",
+          "name": "ស្រុកគាស់ក្រឡ",
+          "name:en": "Koas Krala",
+          "name:km": "ស្រុកគាស់ក្រឡ",
+          "operator": "រង្វង់មូល",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.2628529,
+            12.7550281
+          ]
+        },
+        "id": "node/1961312680"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2022623613",
+          "addr:postcode": "120300",
+          "admin_level": "6",
+          "name": "ខណ្ឌ៧មករា",
+          "name:en": "Khan Prampi Makara",
+          "name:fr": "Prampi Makara",
+          "name:km": "ខណ្ឌ៧មករា",
+          "name:vi": "Quận Prampi Makara",
+          "name:zh": "玛卡拉区",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.9106689,
+            11.5637649
+          ]
+        },
+        "id": "node/2022623613"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2022802976",
+          "addr:postcode": "120100",
+          "admin_level": "6",
+          "name": "ខណ្ឌចំការមន",
+          "name:en": "Khan Chamkar Mon",
+          "name:km": "ខណ្ឌចំការមន",
+          "name:vi": "Quận Chamkar Mon",
+          "name:zh": "桑园区",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.9208767,
+            11.5373071
+          ]
+        },
+        "id": "node/2022802976"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2026085956",
+          "addr:postcode": "120900",
+          "admin_level": "6",
+          "description": "ខណ្ឌពោធិ៍សែនជ័យ រាជធានីភ្នំពេញ",
+          "name": "ខណ្ឌពោធិ៍សែនជ័យ",
+          "name:en": "Khan Por Senchey",
+          "name:km": "ខណ្ឌពោធិ៍សែនជ័យ",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.826722,
+            11.5538562
+          ]
+        },
+        "id": "node/2026085956"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2026101925",
+          "addr:postcode": "120700",
+          "admin_level": "6",
+          "name": "ខណ្ឌឫស្សីកែវ",
+          "name:en": "Khan Russey Keo",
+          "name:km": "ខណ្ឌឫស្សីកែវ",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.9037583,
+            11.6287927
+          ]
+        },
+        "id": "node/2026101925"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2026102703",
+          "addr:postcode": "120800",
+          "admin_level": "6",
+          "name": "ខណ្ឌសែនសុខ",
+          "name:en": "Khan Sen Sok",
+          "name:km": "ខណ្ឌសែនសុខ",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.8692475,
+            11.5785557
+          ]
+        },
+        "id": "node/2026102703"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2240814956",
+          "alt_name": "Srae Ambel",
+          "name": "ស្រុកស្រែអំបិល",
+          "name:en": "Sre Ambel",
+          "name:km": "ស្រុកស្រែអំបិល",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.7475251,
+            11.1238475
+          ]
+        },
+        "id": "node/2240814956"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3896048885",
+          "name": "ស្រុកបរិបូណ៌",
+          "name:en": "Baribour",
+          "name:km": "ស្រុកបរិបូណ៌",
+          "name:ru": "Барибо",
+          "place": "town",
+          "wikidata": "Q4860702"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.4623541,
+            12.4389574
+          ]
+        },
+        "id": "node/3896048885"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3896048886",
+          "name": "ស្រុកកំពង់លែង",
+          "name:en": "Kampong Leaeng",
+          "name:km": "ស្រុកកំពង់លែង",
+          "name:ru": "Кампонглэнг",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.7254311,
+            12.2741853
+          ]
+        },
+        "id": "node/3896048886"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3896048887",
+          "name": "ស្រុកភ្នំក្រវ៉ាញ",
+          "name:en": "Phnom Kravanh",
+          "name:km": "ស្រុកភ្នំក្រវ៉ាញ",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.7641348,
+            12.3505536
+          ]
+        },
+        "id": "node/3896048887"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4784550785",
+          "name": "Sa Rài",
+          "name:en": "Sa Rài",
+          "name:km": "សារាយណ៍",
+          "name:ko": "사라이",
+          "name:vi": "Sa Rài",
+          "name:zh": "沙涞市镇",
+          "official_name": "Sa Rài",
+          "place": "town",
+          "population": "11360",
+          "source:name": "GNS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105.4623666,
+            10.8732222
+          ]
+        },
+        "id": "node/4784550785"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6466270897",
+          "name": "Phú Quốc",
+          "name:en": "Phú Quốc",
+          "name:fr": "Phú Quốc",
+          "name:ja": "フーコック市",
+          "name:km": "ក្រុងភូគួច",
+          "name:ko": "푸꾸옥시",
+          "name:vi": "Phú Quốc",
+          "name:zh": "富國市",
+          "name:zh-Hans": "富国市",
+          "name:zh-Hant": "富國市",
+          "place": "city",
+          "population": "144460",
+          "wikidata": "Q146695",
+          "wikipedia": "vi:Phú Quốc"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.9875395,
+            10.2162807
+          ]
+        },
+        "id": "node/6466270897"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6588896221",
+          "is_capital": "province",
+          "name": "ក្រុងច្បារមន",
+          "name:en": "Chbar Mon",
+          "name:fr": "Chbar Mon",
+          "name:km": "ក្រុងច្បារមន",
+          "name:ru": "Тьбамон",
+          "place": "city",
+          "wikidata": "Q5088735",
+          "wikipedia": "en:Chbar Mon Municipality"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.5194625,
+            11.4647156
+          ]
+        },
+        "id": "node/6588896221"
+      }
+    ]
+  }
