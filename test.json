@@ -7,7 +7,7 @@
         27.118,
         85.228
     ],
-    "glyphs": "https://wipfli.github.io/khmer-map-labels/output_dir/{fontstack}/{range}.pbf",
+    "glyphs": "http://localhost:3002/output_dir/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
@@ -530,15 +530,10 @@
                 "text-font": [
                     "the-name"
                 ],
-                "text-size": 32,
+                "text-size": 31,
                 "text-field": [
                     "format",
-                    ["get", "name:km_encoded"],
-                    {},
-                    "\n",
-                    {}, 
-                    ["get", "name:en"],
-                    {"font-scale": 0.5}
+                    ["get", "name:km_encoded"]
                 ],
                 "icon-image": ["get", "name:km"],
                 "icon-offset": [0, 50]
