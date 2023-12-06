@@ -7,7 +7,7 @@
         27.118,
         85.228
     ],
-    "glyphs": "http://localhost:3002/output_dir/{fontstack}/{range}.pbf",
+    "glyphs": "https://wipfli.github.io/khmer-map-labels/output_dir/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
