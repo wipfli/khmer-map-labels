@@ -31,4 +31,7 @@ cp ../font-maker/raqm/encoded_labels.json .
 python3 feed_back_encoding.py
 ```
 
+## Issues
+
+Some glyphs are not placed correctly. See https://wipfli.github.io/khmer-map-labels/test for a visual comparision with what the browser canvas would render.
 
